@@ -8,6 +8,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "bloc",
+      "rootUri": "file:///Users/edwardlu/Library/flutter/.pub-cache/hosted/pub.dartlang.org/bloc-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "boolean_selector",
       "rootUri": "file:///Users/edwardlu/Library/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0",
       "packageUri": "lib/",
@@ -56,6 +62,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "flutter_bloc",
+      "rootUri": "file:///Users/edwardlu/Library/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_bloc-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///Users/edwardlu/Library/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -74,8 +86,20 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "nested",
+      "rootUri": "file:///Users/edwardlu/Library/flutter/.pub-cache/hosted/pub.dartlang.org/nested-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "path",
       "rootUri": "file:///Users/edwardlu/Library/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///Users/edwardlu/Library/flutter/.pub-cache/hosted/pub.dartlang.org/provider-5.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -140,7 +164,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-04-09T21:17:40.646641Z",
+  "generated": "2021-04-09T21:24:49.623438Z",
   "generator": "pub",
   "generatorVersion": "2.12.2"
 }
